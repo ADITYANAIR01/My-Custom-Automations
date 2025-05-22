@@ -1,0 +1,6 @@
+selenium
+pdfplumber
+pytesseract
+pdf2image
+requests
+ollama

@@ -1,0 +1,2 @@
+# Automation Log
+# This file will be written by the script. Do not edit manually.
